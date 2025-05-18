@@ -21,6 +21,12 @@ body{
     font-size: 21px;
     color: grey;
 }
+
+.footer-text{
+    font-size: 21px;
+    color: grey;
+    text-align: right;
+}
 .link--cta{
     font-size: 16px;
     color: aquamarine;
